@@ -1,5 +1,5 @@
-num1 = int(input(": "))
-num2 = int(input(": "))
+num1 = int(input("Number 1: "))
+num2 = int(input("Number 2: "))
 add = num2 + num1
 div = num1 / num2
 mul = num1 * num2
